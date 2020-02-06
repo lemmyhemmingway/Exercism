@@ -11,4 +11,6 @@
 | scrabble-score | Easy | Done |
 | two-fer | Easy | Done |
 | luhn | Easy | Done |
-| darts | Easy |  |
+| darts | Easy | Done |
+| clock | Easy | Done |
+| acronym | Easy | Done |
